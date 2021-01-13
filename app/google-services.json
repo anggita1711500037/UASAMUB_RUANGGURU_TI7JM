@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583931178397",
+    "project_id": "uasamub-ruangguru-ti7jm",
+    "storage_bucket": "uasamub-ruangguru-ti7jm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583931178397:android:d8cfc21ec8c4337a991374",
+        "android_client_info": {
+          "package_name": "com.asus.uasamub_ruangguru_ti7jm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583931178397-pnv7076qq04j4bs96knnk8c1oqpfh6r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzRggGVbX1ZZF8a2ha3xmIutPk-9D_4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583931178397-pnv7076qq04j4bs96knnk8c1oqpfh6r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
